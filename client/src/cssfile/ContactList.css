@@ -1,0 +1,32 @@
+#contactList > table{
+    width: 100%;
+}
+
+th > div{
+    display: flex;
+    justify-content: flex-start;
+    padding-top: 10px ;
+    padding-bottom:10px;
+    width:60%;
+    text-align: center;
+    margin-left: 10px;
+}
+table{
+    margin: 10px 10px 10px 10px;
+}
+
+table, tr{
+    border: 5px solid #e1eef7;
+    border-collapse: collapse;
+    border-radius: 10px;
+}
+
+#tableHead{
+    background-color: #B2DFFF;  
+}
+label{
+   margin-top: 10px;
+   display: flex;
+   flex-direction: row;
+
+}
